@@ -46,7 +46,10 @@
                 width: 100%; /* Full width for the smallest screens */
                 margin: 0; /* Remove margin for full-width blocks */
             }
+
         }
+		
+		
 		.contentTreatment p{
 			font-weight: bold
 		}
@@ -185,7 +188,7 @@ a:focus {
 
 .header_section .header_bottom .container-fluid {
   padding-right: 25px;
-  padding-left: 25px;
+  padding-left: 352px;
 }
 
 .navbar-brand {
